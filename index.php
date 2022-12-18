@@ -34,7 +34,7 @@ include 'components/connect.php';
 			<li><a href="#service">Service</a></li>
 			<li><a href="#contact">Contact</a></li>
 		</ul>
-		<a href="CV/communication skills.pdf" class="top-btn">Download CV</a>
+		<a href="CV/Training superisor.pdf" class="top-btn">Download CV</a>
 	</header>
 
 	<!--------home---->
